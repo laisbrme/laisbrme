@@ -5,7 +5,7 @@ Engenheira Eletricista pela Universidade Federal de Santa Maria (UFSM), cursando
 Acredito que a automação (nas suas diversas formas) é inevitável e pode ser um elemento transformador na vida das pessoas. A diferença está no foco que você dá para aquilo que cria.
 
 ## 🛠 Habilidades
-  <img src="https://img.icons8.com/color/2x/python.png" width="50" alt="Python" title="Python"> <img src="https://img.icons8.com/color/2x/html-5.png" width="50" alt="HTML5" title="HTML5">  <img src="https://img.icons8.com/color/2x/css3.png" width="50" alt="CSS3" title="CSS3">  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="50" alt="JavaScript" title="JavaScript">  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="50" alt="Bootstrap" title="Bootstrap"> 
+  <img src="https://img.icons8.com/color/2x/python.png" width="50" alt="Python" title="Python"> <img src="https://img.icons8.com/color/2x/html-5.png" width="50" alt="HTML5" title="HTML5">  <img src="https://img.icons8.com/color/2x/css3.png" width="50" alt="CSS3" title="CSS3">  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="50" alt="JavaScript" title="JavaScript">  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="50" alt="React" title="React">  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="50" alt="Java" title="Java">  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" alt="JaPostgreSQLva" title="PostgreSQL">    
 
 ## 🔗 Contato
 <div> 
