@@ -10,93 +10,107 @@ Sou Engenheira Eletricista pela Universidade Federal de Santa Maria (UFSM) e atu
 
 ## 🚀 Projetos em Destaque
 
-1. [API-sistema-ECommerce](https://github.com/laisbrme/API-sistema-ECommerce)
-
-  - **Skills Demonstradas:**
-
-    - Desenvolvimento de APIs RESTful com Java e Spring Boot
-
-    - Modelagem de banco de dados relacional com PostgreSQL
-
-    - Implementação de operações CRUD para entidades como produtos, categorias, clientes e endereços
-
-    - Estruturação de projetos back-end escaláveis e modulares
-
-    - Utilização de boas práticas de desenvolvimento e versionamento com Git
-
-  - **Justificativa:**
-
-    - Este projeto evidencia minha capacidade de construir uma API robusta para um sistema de e-commerce, utilizando tecnologias amplamente adotadas no mercado. A estrutura modular e a integração com PostgreSQL demonstram proficiência em back-end, alinhando-se com desenvolvimento full stack.
-
-2. [CRUD-Completo-React](https://github.com/laisbrme/CRUD-Completo-React)
-
-  - **Skills Demonstradas:**
-
-    - Desenvolvimento de interfaces web com React.js
-
-    - Gerenciamento de estado e rotas em aplicações SPA (Single Page Application)
-
-    - Consumo de APIs RESTful para operações CRUD
-
-    - Aplicação de bibliotecas como Bootstrap e SweetAlert2 para aprimorar a experiência do usuário
-
-    - Evolução de um projeto básico em HTML/CSS/JavaScript para uma aplicação moderna com React
-
-  - **Justificativa:**
-
-    - Este repositório mostra minha evolução no desenvolvimento front-end, partindo de uma base simples até a implementação de uma aplicação SPA com React. A capacidade de consumir APIs e aprimorar a interface do usuário reflete habilidades essenciais para o desenvolvimento full stack.
-
-3. [aiagent](https://github.com/laisbrme/aiagent)
-
-  - **Skills Demonstradas:**
-
-    - Desenvolvimento de aplicações com Python
-
-    - Integração com modelos de linguagem (LLMs) como o GPT-3.5-Turbo da OpenAI
-
-    - Análise de dados financeiros e notícias para avaliação de ações
-
-    - Construção de agentes inteligentes utilizando a biblioteca CrewAI
-
-    - Implementação de interfaces amigáveis para interação com o usuário
-
-  - **Justificativa:**
-
-    - Este projeto destaca minha iniciativa em explorar inteligência artificial aplicada ao mercado financeiro. A integração com LLMs e a análise de dados demonstram competências avançadas, diferenciando seu portfólio e alinhando-se com tendências emergentes na área de tecnologia.
-
-4. [BookConnect](https://github.com/laisbrme/BookConnect)
-
-  - **Skills Demonstradas:**
-
-    - Desenvolvimento de aplicativos móveis com React Native
-
-    - Estruturação de navegação e rotas em aplicações mobile
-
-    - Design de interfaces responsivas e amigáveis para o usuário
-
-    - Gerenciamento de estados e componentes em aplicações móveis
-
-    - Implementação de funcionalidades específicas para uma livraria fictícia
-
-  - **Justificativa:**
-    
-    - Este aplicativo móvel demonstra minha versatilidade no desenvolvimento de soluções além do ambiente web. A utilização de React Native para criar uma aplicação funcional e esteticamente agradável reforça minhas habilidades em desenvolvimento mobile.
-
-5. [game-developer](https://github.com/laisbrme/game-developer)
-
-  - **Skills Demonstradas:**
-
-    - Desenvolvimento de jogos 2D para navegadores utilizando HTML5, CSS e JavaScript
-
-    - Manipulação de elementos gráficos e eventos de teclado para controle de personagens
-
-    - Implementação de lógica de jogo, incluindo detecção de colisões e sistema de pontuação
-
-    - Estruturação de projetos interativos com foco em desempenho e usabilidade
-
-  - **Justificativa:**
-    
-    - Este projeto evidencia minha criatividade e domínio de lógica de programação ao desenvolver um jogo interativo para navegadores. A capacidade de manipular elementos gráficos e eventos em tempo real demonstra minhas habilidades técnicas, especialmente em contextos que exigem interatividade e desempenho.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tkru{border-color:#3531ff;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Projetos</th>
+    <th class="tg-0pky">Skills</th>
+    <th class="tg-0pky">Apresentação</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">
+      <a href="https://github.com/laisbrme/API-sistema-ECommerce">API-sistema-ECommerce</a>
+    </td>
+    <td class="tg-0pky">
+      <ul>
+        <li>Desenvolvimento de APIs RESTful com Java e Spring Boot</li>
+        <li>Modelagem de banco de dados relacional com PostgreSQL</li>
+        <li>Implementação de operações CRUD para entidades como produtos, categorias, clientes e endereços</li>
+        <li>Estruturação de projetos back-end escaláveis e modulares</li>
+        <li>Utilização de boas práticas de desenvolvimento e versionamento com Git</li>
+      </ul>
+    </td>
+    <td class="tg-0pky">
+      <p>Este projeto evidencia minha capacidade de construir uma API robusta para um sistema de e-commerce, utilizando tecnologias amplamente adotadas no mercado. A estrutura modular e a integração com PostgreSQL demonstram proficiência em back-end, alinhando-se com desenvolvimento full stack.</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">
+      <a href="https://github.com/laisbrme/CRUD-Completo-React">CRUD-Completo-React</a>
+    </td>
+    <td class="tg-0pky">
+      <ul>
+        <li>Desenvolvimento de interfaces web com React.js</li>
+        <li>Gerenciamento de estado e rotas em aplicações SPA (Single Page Application)</li>
+        <li>Consumo de APIs RESTful para operações CRUD</li>
+        <li>Aplicação de bibliotecas como Bootstrap e SweetAlert2 para aprimorar a experiência do usuário</li>
+        <li>Evolução de um projeto básico em HTML/CSS/JavaScript para uma aplicação moderna com React</li>
+      </ul>
+    </td>
+    <td class="tg-0pky">
+      <p>Este repositório mostra minha evolução no desenvolvimento front-end, partindo de uma base simples até a implementação de uma aplicação SPA com React. A capacidade de consumir APIs e aprimorar a interface do usuário reflete habilidades essenciais para o desenvolvimento full stack.</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">
+      <a href="https://github.com/laisbrme/aiagent">aiagent</a>
+    </td>
+    <td class="tg-0lax">
+      <ul>
+        <li>Desenvolvimento de aplicações com Python</li>
+        <li>Integração com modelos de linguagem (LLMs) como o GPT-3.5-Turbo da OpenAI</li>
+        <li>Análise de dados financeiros e notícias para avaliação de ações</li>
+        <li>Construção de agentes inteligentes utilizando a biblioteca CrewAI</li>
+        <li>Implementação de interfaces amigáveis para interação com o usuário</li>
+      </ul>
+    </td>
+    <td class="tg-0lax">
+      <p>Este projeto destaca minha iniciativa em explorar inteligência artificial aplicada ao mercado financeiro. A integração com LLMs e a análise de dados demonstram competências avançadas, diferenciando seu portfólio e alinhando-se com tendências emergentes na área de tecnologia.</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">
+      <a href="https://github.com/laisbrme/BookConnect">BookConnect</a>
+    </td>
+    <td class="tg-0lax">
+      <ul>
+        <li>Desenvolvimento de aplicativos móveis com React Native</li>
+        <li>Estruturação de navegação e rotas em aplicações mobile</li>
+        <li>Design de interfaces responsivas e amigáveis para o usuário</li>
+        <li>Gerenciamento de estados e componentes em aplicações móveis</li>
+        <li>Implementação de funcionalidades específicas para uma livraria fictícia</li>
+      </ul>
+    </td>
+    <td class="tg-0lax">
+      <p>Este aplicativo móvel demonstra minha versatilidade no desenvolvimento de soluções além do ambiente web. A utilização de React Native para criar uma aplicação funcional e esteticamente agradável reforça minhas habilidades em desenvolvimento mobile.</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">
+      <a href="https://github.com/laisbrme/game-developer">game-developer</a>
+    </td>
+    <td class="tg-0pky">
+      <ul>
+        <li>Desenvolvimento de jogos 2D para navegadores utilizando HTML5, CSS e JavaScript</li>
+        <li>Manipulação de elementos gráficos e eventos de teclado para controle de personagens</li>
+        <li>Implementação de lógica de jogo, incluindo detecção de colisões e sistema de pontuação</li>
+        <li>Estruturação de projetos interativos com foco em desempenho e usabilidade</li>
+      </ul>
+    </td>
+    <td class="tg-0pky">
+      <p>Este projeto evidencia minha criatividade e domínio de lógica de programação ao desenvolver um jogo interativo para navegadores. A capacidade de manipular elementos gráficos e eventos em tempo real demonstra minhas habilidades técnicas, especialmente em contextos que exigem interatividade e desempenho.</p>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ## 🔗 Contato
 <div> 
